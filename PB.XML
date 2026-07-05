@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Title>ספר טלפונים</Title>
+
+    <Menu Name="עובדים">
+
+        <Unit Name="אורן אוחיון" Phone1="0537208484"/>
+        <Unit Name="מחסן" Phone1="089999999"/>
+        <Unit Name="שירות לקוחות" Phone1="037777777"/>
+
+    </Menu>
+
+</YealinkIPPhoneBook>
