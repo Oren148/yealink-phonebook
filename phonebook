@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Title>phonebool</Title>
+
+    <Menu Name="עובדים">
+
+        <Unit Name="oren ohayon" Phone1="0537208484"/>
+        
+
+    </Menu>
+
+</YealinkIPPhoneBook>
