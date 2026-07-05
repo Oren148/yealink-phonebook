@@ -1,9 +1,13 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
-  <Menu Name="Contacts">
-    <Unit Name="Oren" Phone1="0537208484"/>
-    <Unit Name="Warehouse" Phone1="089999999"/>
-    <Unit Name="Support" Phone1="037777777"/>
-  </Menu>
+    <Title>PhoneBook</Title>
+
+    <Menu Name="Contacts">
+        <Unit Name="Oren Ohayon" Phone1="0537208484" />
+        <Unit Name="Warehouse" Phone1="0899999999" />
+        <Unit Name="Support" Phone1="0377777777" />
+    </Menu>
+
 </YealinkIPPhoneBook>
+``
